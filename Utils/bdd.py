@@ -1,8 +1,6 @@
 import psycopg2
 import pandas as pd
 #from decouple import config
-import tkinter as tk
-from tkinter import filedialog
 
 
 def connection_database():
